@@ -1,1 +1,1 @@
-Gwmi win32-operatingsystem
+Get-WMIObject win32-operatingsystem
