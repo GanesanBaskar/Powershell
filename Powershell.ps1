@@ -1,1 +1,1 @@
-Get-WMIObject win32-operatingsystem
+(Get-WmiObject -Class win32_operatingsystem).Version
